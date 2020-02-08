@@ -22,7 +22,7 @@ Commonly represents such activities as acting goofy, having fun, and partying as
 Also known as:
  • Crazy eyes  	• Excited, wild  	• Goofy face  	• Grinning Face With One Large and One Small Eye
 
-![ZanyFaceVariants](assets\ZanyFaceVariants.jpg)
+![ZanyFaceVariants](assets/ZanyFaceVariants.jpg)
 
 ###### Computer Graphics Concepts used for implementation in C:
 
@@ -33,7 +33,7 @@ Also known as:
 * Use of graphics library in C																								
 * Translation, scaling, rotation and animation
 
-![wireframe](assets\wireframe.jpg)
+![wireframe](assets/wireframe.jpg)
 
 ###### C graphics library built-in functions used:
 
@@ -52,29 +52,29 @@ Also known as:
 * floodFillUser(x, y, oldColorCode, newColorCode);
 * boundaryFill(x, y, boundaryColorCode, newColorCode);
 
-![generatedEmoticons](assets\generatedEmoticons.jpg)
+![generatedEmoticons](assets/generatedEmoticons.jpg)
 
 ###### Translation:
 
 To shift origin to given x, y coordinates by adding the origin coordinates to the given x, y respectively.
 
-![translation](assets\translation.jpg)
+![translation](assets/translation.jpg)
 
 ###### Rotation:
 
 To rotate the emoji in a given angle on axis by calculating the new coordinates through given angle of shapes.
 
-![rotation](assets\rotation.jpg)
+![rotation](assets/rotation.jpg)
 
 ###### Scaling:
 
 To scale/ resize the emoji from a given scale factor by multiplying all the coordinates and sizes by scaling factor.
 
-![scaling](assets\scaling.jpg)
+![scaling](assets/scaling.jpg)
 
 ###### Animation:
 
 To combine above effects with specified delay to perform animation effects.
 
-![animation](assets\animation.jpg)
+![animation](assets/animation.jpg)
 
